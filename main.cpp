@@ -3,7 +3,9 @@
 
 int main(void)
 {
-	system("./cgi.sh");
+	
+
+	system("./script_cgi.sh");
 
 
 	return (0);
